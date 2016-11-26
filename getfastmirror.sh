@@ -11,7 +11,7 @@
 
 
 VERSION="precise"  # precise is code of Ubuntu 12.04 if your ubuntu is not 12.04 please change
-TEST_NETCONNECT_HOST="www.baidu.com"
+TEST_NETCONNECT_HOST="github.com"
 SOURCES_MIRRORS_FILE="sources_mirrors.list"	
 MIRRORS_SPEED_FILE="mirrors_speed.list"
 
